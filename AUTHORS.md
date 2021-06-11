@@ -1,4 +1,4 @@
-# Authors ordered by first contribution
+# Authors :
 
 * Mohammed Tauseef Mohiuddin <tauseefmohammed2@gmail.com>
 * Mohammed Omerullah <omarullahk@gmail.com>
